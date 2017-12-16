@@ -7,7 +7,7 @@ Bana gerçekten çok fazla bu tarz sorular geliyor, bot nasıl yapılıyor diye 
 Kullanımı oldukça basittir tek yapmanız gereken ekstra.json'u editlemek olacak!
 
 Teşekkürler,
-Ripbyrustavi
+Ripbyrustavi.
 
 
-**Güncellenmiştir.**
+Son güncelleme: **15.12.2017**
